@@ -1,2 +1,3 @@
-# adc-pwm-pico
-rpi pico code to hook up a pot to control pwm to control the brightness of an LED.
+# esr-pico
+
+Code for various interactive projects based around the raspberry pi pico board 
